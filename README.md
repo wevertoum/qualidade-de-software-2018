@@ -1,6 +1,39 @@
-## 1 - Matriz de rastreabilidade de Requisitos do sistema
+## Matriz de rastreabilidade de Requisitos do sistema
 
-## 1.1 - Requisitos Funcionais
+### 1 - Problema
+
+| ID    | Nome | O Problema é | Afeta | Cujo Impacto é |
+|-------|------|--------------|-------|----------------|
+| PB 01 | Gerenciamento de Projetos lorem ipsum | O problema é lorem ipsum | O problema afeta lorem ipsum | O impacto é lorem ipsum |
+| PB 02 | Gerenciamento de Projetos lorem ipsum | O problema é lorem ipsum | O problema afeta lorem ipsum | O impacto é lorem ipsum |
+
+## 2 - Necessidades
+
+| ID | Nome | Necessidade | Solução atual |
+|----|------|-------------|---------------|
+| NE 01 | necessidade x1 | Necessidade x1 | Solução x1 |
+| NE 02 | necessidade x1 | Necessidade x1 | Solução x1 |
+| NE 03 | necessidade x1 | Necessidade x1 | Solução x1 |
+| NE 04 | necessidade x1 | Necessidade x1 | Solução x1 |
+| NE 05 | necessidade x1 | Necessidade x1 | Solução x1 |
+
+## 3 - Características
+
+| ID       | Nome | Característica |
+|----------|------|----------------|
+|   CA 01  | Característica XPTO | Descrição da característica XPTO |
+|   CA 02  | Característica XPTO | Descrição da característica XPTO |
+|   CA 03  | Característica XPTO | Descrição da característica XPTO |
+|   CA 04  | Característica XPTO | Descrição da característica XPTO |
+|   CA 05  | Característica XPTO | Descrição da característica XPTO |
+|   CA 06  | Característica XPTO | Descrição da característica XPTO |
+|   CA 07  | Característica XPTO | Descrição da característica XPTO |
+|   CA 08  | Característica XPTO | Descrição da característica XPTO |
+|   CA 09  | Característica XPTO | Descrição da característica XPTO |
+|   CA 10  | Característica XPTO | Descrição da característica XPTO |
+|   CA 11  | Característica XPTO | Descrição da característica XPTO |
+
+## 4 - Requisitos Funcionais
 
 | ID    | Requisito Funcional |Observação|
 |-------|---------------------|----------|
@@ -17,7 +50,7 @@
 | RF 11 | O usuário deve ser capaz de lorem ipsum |          |
 | RF 12 | O usuário deve ser capaz de lorem ipsum |          |
 
-## 1.2 - Requisitos Não-Funcionais
+## 4.1 - Requisitos Não-Funcionais
 | ID    | Requisito Não-Funcional |
 |-------|-------------------------|
 | RNF 01 | O sistema deve lorem ipsum lorem ipsum |
@@ -27,7 +60,7 @@
 | RNF 05 | O sistema deve lorem ipsum lorem ipsum |
 
 
-## 2 - Casos de Uso
+## 5 - Casos de Uso
 
 |Identificador|Nome|Descrição|
 |-------------|----|---------|
@@ -53,9 +86,9 @@
 |     UC20    | Atividade X | Tem como objetivo fazer com que o cliente lorem ipsum lorem ipsum |
 |     UC21    | Atividade X | Tem como objetivo fazer com que o gerente de projeto lorem ipsum  |
 
-## 3 - Matriz de rastreabilidade
+## 6 - Matriz de rastreabilidade
 
-### 3.1 - Problema X Necessidade 
+### 6.1 - Problema X Necessidade 
 
 | | PB01 |  PB02 |
 |-|------|-------|
@@ -67,7 +100,7 @@
 
 
 
-### 3.2 - Necessidade X Característica
+### 6.2 - Necessidade X Característica
 
 |        | NE01 | NE02 | NE03 | NE04 | NE05 |
 |--------|------|------|------|------|------|
@@ -83,7 +116,7 @@
 |**CA10**|      |      |      |   X  |      |
 |**CA11**|      |      |      |      |   X  |
 
-### 3.3 - Característica X Requisitos Funcionais
+### 6.3 - Característica X Requisitos Funcionais
 
 |        | CA01 | CA02 | CA03 | CA04 | CA05 | CA06 | CA07 | CA08 | CA09 | CA10 | CA11 |
 |--------|------|------|------|------|------|------|------|------|------|------|------|
@@ -100,7 +133,7 @@
 |**RF11**|      |      |  X   |      |      |      |      |      |      |      |      |
 |**RF12**|      |      |      |      |      |      |      |      |      |      |  X   |
 
-### 3.4 - RF X Caso de uso
+### 6.4 - RF X Caso de uso
 
 |   ID   |RF01|RF02|RF03|RF04|RF05|RF06|RF07|RF08|RF09|RF10|RF11|RF12|
 |--------|----|----|----|----|----|----|----|----|----|----|----|----|
